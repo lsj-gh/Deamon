@@ -51,7 +51,7 @@ public class MyWatchService extends Service {
                         boolean isRun = CheckService.isProessRunning(MyWatchService.this, "com.example" +
                                 ".bettta:myservice");
                         if (isRun == false) {
-//                            如果MyService已死，就把它拉起来
+                        //  如果MyService已死，就把它拉起来
                             try {
                                 Log.d(TAG, "checkIsStop------restart");
                                 myAidlInterface.startService();
