@@ -12,6 +12,7 @@ public class CheckService {
     /**
      * 判断进程是否运行
      *
+     *
      * @return
      */
     public static boolean isProessRunning(Context context, String proessName) {
