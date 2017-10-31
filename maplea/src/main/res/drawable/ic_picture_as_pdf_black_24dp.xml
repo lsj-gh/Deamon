@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="100dp"
+        android:height="100dp"
+        android:viewportHeight="24.0"
+        android:viewportWidth="24.0">
+    <group
+        android:name="group">
+        <path
+            android:name="path1"
+            android:fillColor="#ABCDEF"
+            android:pathData="M20,2L8,2c-1.1,0 -2,0.9 -2,2v12c0,1.1 0.9,2 2,2h12c1.1,0 2,-0.9 2,-2L22,4c0,-1.1 -0.9,-2 -2,-2z"
+            />
+
+    </group>
+    <group android:name="group1">
+        <path
+            android:name="path2"
+            android:fillColor="#FEDCBA"
+            android:pathData="M11.5,9.5c0,0.83 -0.67,1.5 -1.5,1.5L9,11v2L7.5,13L7.5,7L10,7c0.83,0 1.5,0.67 1.5,1.5v1z"
+            />
+        <path
+            android:name="path3"
+            android:fillColor="#FEDCBA"
+            android:pathData="M16.5,11.5c0,0.83 -0.67,1.5 -1.5,1.5h-2.5L12.5,7L15,7c0.83,0 1.5,0.67 1.5,1.5v3z"
+            />
+        <path
+            android:name="path4"
+            android:fillColor="#FEDCBA"
+            android:pathData="M20.5,8.5L19,8.5v1h1.5L20.5,11L19,11v2h-1.5L17.5,7h3v1.5z"
+            />
+        <path
+            android:name="path5"
+            android:fillColor="#FFFFFF"
+            android:pathData="M9,9.5h1v-1L9,8.5v1z"
+            />
+    </group>
+    <group android:name="group2">
+        <path
+            android:fillColor="@color/colorPrimaryDark"
+            android:pathData="M4,6L2,6v14c0,1.1 0.9,2 2,2h14v-2L4,20L4,6z"
+            />
+        <!--<path-->
+            <!--android:fillColor="#FF000000"-->
+            <!--android:pathData="M14,11.5h1v-3h-1v3z"-->
+            <!--/>-->
+
+    </group>
+</vector>
+

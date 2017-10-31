@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+                 android:drawable="@drawable/ic_picture_as_pdf_black_24dp">
+    <target
+        android:name="group"
+        android:animation="@animator/svg_ani"/>
+    <target
+        android:name="group1"
+        android:animation="@animator/svg_ani1"/>
+    <target
+        android:name="group2"
+        android:animation="@animator/svg_ani2"/>
+
+
+</animated-vector>

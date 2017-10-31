@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">maplea</string>
+    <string name="zai">在</string>
+    <string name="mantianfeng">漫天风</string>
+    <string name="shali">沙里</string>
+    <string name="wangzheni">望着你</string>
+    <string name="yuanqu">远去</string>
+    <string name="wo">我</string>
+    <string name="jing">竟</string>
+    <string name="beishangde">悲伤的</string>
+    <string name="bunengziji">不能自己</string>
+    <string name="back">返回</string>
+    <string name="startdown">开始下载</string>
+    <string name="button">Button</string>
+</resources>

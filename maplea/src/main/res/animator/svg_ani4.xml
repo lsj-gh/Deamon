@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:duration="5000"
+        android:interpolator="@android:interpolator/linear"
+        android:propertyName="trimPathEnd"
+        android:valueFrom="0"
+        android:repeatMode="reverse"
+        android:valueTo="1"
+        android:valueType="floatType"/>
+    <!--<objectAnimator-->
+        <!--android:duration="5000"-->
+        <!--android:interpolator="@android:interpolator/linear"-->
+        <!--android:propertyName="trimPathStart"-->
+        <!--android:repeatMode="reverse"-->
+        <!--android:valueFrom="1"-->
+        <!--android:valueTo="0"-->
+        <!--android:valueType="floatType"/>-->
+
+</set>

@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="100dp"
+        android:height="100dp"
+        android:viewportWidth="100.0"
+        android:viewportHeight="100.0">
+    <!--<group-->
+        <!--android:name="huaxian">-->
+    <path
+        android:name="huaxian"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="0.5"
+        android:pathData="M30,30 L90,30 L90,90 L30,90 z"/>
+    <!--</group>-->
+</vector>
