@@ -1,4 +1,4 @@
 # Deamon
 
 通过AIDL进行进程间的通信。创建两个不同进程服务，一个MyWatchService去检测MyService的进程是否存活，每5秒检测一次，
-如果死亡，就通过进程间通信拉起，同理MyService中也可以检测MyWatchService所在进程。形成互拉。
+如果死亡，就通过进程间通信拉起，同理MyService中也可以检测MyWatchService所在进程。
